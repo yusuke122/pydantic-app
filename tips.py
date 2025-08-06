@@ -86,3 +86,8 @@
 # - 環境変数管理は Python の `python-dotenv` や Docker Compose で整備すると運用性が向上  
 
 # このサンプルをベースに、エラーハンドリング強化やミドルウェア導入など、要件に合わせて拡張してみてください。
+
+#-------------------------------------------------------------------------------------------------------------------------
+
+
+# https://docs.pydantic.dev/latest/examples/custom_validators/#custom-datetime-validator-via-annotated-metadata
